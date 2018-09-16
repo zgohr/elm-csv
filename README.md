@@ -1,3 +1,9 @@
+# HEADS UP
+
+*This was only published in case/until
+  [lovasoa/elm-csv](https://package.elm-lang.org/packages/lovasoa/elm-csv/latest)
+was updated for 0.19 and it is, so use that instead!!*
+
 # elm-csv
 
 [![Build status][travis-img]][travis-url]
